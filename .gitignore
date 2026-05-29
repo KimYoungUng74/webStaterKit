@@ -56,3 +56,6 @@ Thumbs.db
 # 로컬 개발
 .env.local
 .env.*.local
+
+# Claude Code 로컬 설정
+.claude/
