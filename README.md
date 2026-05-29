@@ -1,33 +1,35 @@
 # Next.js Web Starter Kit
 
-Next.js 16 + shadcn/ui 기반의 풀스택 웹 스타터킷입니다.  
+Next.js 16 + shadcn/ui 기반의 풀스택 웹 스타터킷입니다!
 대시보드 레이아웃, 라이브 코드 플레이그라운드, 8가지 예제 카테고리를 포함합니다.
 
 ## 스택
 
-| 분류 | 기술 | 버전 |
-|------|------|------|
-| 프레임워크 | Next.js | 16.2.6 |
-| UI 라이브러리 | React + React DOM | 19.2.4 |
-| 컴포넌트 | shadcn/ui (Radix UI) | - |
-| 스타일 | Tailwind CSS | 4.x |
-| 언어 | TypeScript | 5.x |
-| 폼 검증 | react-hook-form + zod | 7.76.1 / 4.4.3 |
-| 상태 관리 | use-local-storage-state | 19.5.0 |
-| 테마 | next-themes | 0.4.6 |
-| 유틸 훅 | usehooks-ts | 3.1.1 |
-| 알림 | sonner | 2.0.7 |
-| 아이콘 | lucide-react | 1.16.0 |
-| 라이브 코드 실행 | @babel/standalone | 7.29.7 |
+| 분류             | 기술                    | 버전           |
+| ---------------- | ----------------------- | -------------- |
+| 프레임워크       | Next.js                 | 16.2.6         |
+| UI 라이브러리    | React + React DOM       | 19.2.4         |
+| 컴포넌트         | shadcn/ui (Radix UI)    | -              |
+| 스타일           | Tailwind CSS            | 4.x            |
+| 언어             | TypeScript              | 5.x            |
+| 폼 검증          | react-hook-form + zod   | 7.76.1 / 4.4.3 |
+| 상태 관리        | use-local-storage-state | 19.5.0         |
+| 테마             | next-themes             | 0.4.6          |
+| 유틸 훅          | usehooks-ts             | 3.1.1          |
+| 알림             | sonner                  | 2.0.7          |
+| 아이콘           | lucide-react            | 1.16.0         |
+| 라이브 코드 실행 | @babel/standalone       | 7.29.7         |
 
 ## 주요 기능
 
 ### 레이아웃
+
 - **마케팅 페이지** — 히어로 섹션, 기능 소개
 - **대시보드** — 상단 Header + 좌측 Sidebar (접기/펼치기, localStorage 유지)
 - **반응형** — 모바일 Sheet 네비게이션
 
 ### 라이브 코드 플레이그라운드
+
 - 오른쪽 코드 영역에서 **직접 편집** → 왼쪽 미리보기에 **실시간 반영**
 - **초기화 버튼** — 원본 코드로 즉시 복원
 - **복사 버튼** — 현재 편집된 코드 클립보드 복사
@@ -35,16 +37,16 @@ Next.js 16 + shadcn/ui 기반의 풀스택 웹 스타터킷입니다.
 
 ### 예제 페이지 (8가지 카테고리)
 
-| 카테고리 | 내용 |
-|---------|------|
-| UI 컴포넌트 | Button, Badge, Alert, Input, Select, Card, Avatar, Skeleton, Progress, Checkbox, Switch, Radio, Textarea 등 |
-| 폼 & 검증 | react-hook-form + zod 실전 패턴 |
-| 데이터 테이블 | 검색, 정렬, 페이지네이션 |
-| 피드백 | Toast, Progress, Empty State, Loading 상태 |
-| 오버레이 | Dialog, Sheet, Tooltip, Popover, Dropdown Menu |
-| 네비게이션 | Tabs, Breadcrumb, Pagination, Accordion, Collapsible |
-| 레이아웃 | 그리드, KPI 카드, 분할 레이아웃 패턴 |
-| 훅 & 유틸 | useLocalStorage, useDebounce, useMediaQuery, useTheme 등 |
+| 카테고리      | 내용                                                                                                        |
+| ------------- | ----------------------------------------------------------------------------------------------------------- |
+| UI 컴포넌트   | Button, Badge, Alert, Input, Select, Card, Avatar, Skeleton, Progress, Checkbox, Switch, Radio, Textarea 등 |
+| 폼 & 검증     | react-hook-form + zod 실전 패턴                                                                             |
+| 데이터 테이블 | 검색, 정렬, 페이지네이션                                                                                    |
+| 피드백        | Toast, Progress, Empty State, Loading 상태                                                                  |
+| 오버레이      | Dialog, Sheet, Tooltip, Popover, Dropdown Menu                                                              |
+| 네비게이션    | Tabs, Breadcrumb, Pagination, Accordion, Collapsible                                                        |
+| 레이아웃      | 그리드, KPI 카드, 분할 레이아웃 패턴                                                                        |
+| 훅 & 유틸     | useLocalStorage, useDebounce, useMediaQuery, useTheme 등                                                    |
 
 ## 시작하기
 
