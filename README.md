@@ -1,13 +1,13 @@
 # Next.js Web Starter Kit
 
-Next.js 15 + shadcn/ui 기반의 풀스택 웹 스타터킷입니다.  
+Next.js 16 + shadcn/ui 기반의 풀스택 웹 스타터킷입니다.  
 대시보드 레이아웃, 라이브 코드 플레이그라운드, 8종 UI 예제를 포함합니다.
 
 ## 스택
 
 | 분류 | 기술 |
 |------|------|
-| 프레임워크 | Next.js 15 (App Router, Turbopack) |
+| 프레임워크 | Next.js 16 (App Router) |
 | UI | shadcn/ui + Tailwind CSS v4 |
 | 언어 | TypeScript |
 | 폼 검증 | react-hook-form + zod |
